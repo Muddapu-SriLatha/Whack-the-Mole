@@ -1,1 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h2 {
+    color: #ff6347;
+    margin: 10px;
+}
+
+.grid {
+    width: 606px;
+    height: 606px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.square {
+    background-color: #ffebcd;
+    border: 3px solid #deb887;
+    border-radius: 10px;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s;
+}
+
+.square:hover {
+    background-color: #f5deb3;
+}
+
+.mole {
+	background-image: url("mole.jpg");
+	background-size: cover;
+}
 
