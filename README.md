@@ -6,7 +6,7 @@ Score Tracking: Real-time score updates based on the player's performance.
 Timer: A countdown timer adds an element of urgency to the game.
 Responsive Design: The game is optimized for play on both desktop and mobile devices.
 Simple and Intuitive UI: Easy-to-understand controls and a clean interface.
-Technologies Used:
+Technologies Used:-
 HTML: Structure of the game.
 CSS: Styling and animations.
 JavaScript: Game logic and interactions.
