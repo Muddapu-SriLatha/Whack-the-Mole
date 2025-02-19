@@ -1,7 +1,7 @@
 # Whack-the-Mole
 This project is a classic Whack-a-Mole game implemented using the  techstacks like  HTML, CSS, and JavaScript. The game provides a fun and interactive experience where players try to "whack" as many moles as possible before the time runs out.
 Features:
-Dynamic Gameplay: Moles pop up at random intervals and locations on the game board.
+Dynamic Gameplay: Moles pop up at random intervals and locations on the game board..
 Score Tracking: Real-time score updates based on the player's performance.
 Timer: A countdown timer adds an element of urgency to the game.
 Responsive Design: The game is optimized for play on both desktop and mobile devices.
